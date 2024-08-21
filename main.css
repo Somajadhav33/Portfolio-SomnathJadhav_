@@ -3,7 +3,7 @@
     padding: 0px;
 }
 header{
-    height: 7vh;
+    height: 5vh;
     width: 100%;
     background-color: black;
     display: flex;
@@ -227,8 +227,9 @@ header h4{
     font-weight: normal;
     margin-top: 4%;
     text-align: left;
+    padding-left: 1%;
 }
-/*projects Section */
+/*project Section */
 .project_card img{
     background-size: cover;
     margin: 10px;
